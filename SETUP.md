@@ -566,4 +566,4 @@ If you encounter issues not covered in this guide:
 
 ---
 
-**Setup complete!** You're now ready to use the I'm Sorry platform. For deployment instructions.
+**Setup complete!** You're now ready to use the ApologyHub platform. For deployment instructions, see your hosting provider's documentation.
