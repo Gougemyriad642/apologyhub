@@ -9,7 +9,7 @@ ApologyHub platform built with Next.js 14, Prisma, and shadcn/ui. Users can subm
 - **Browse & Search** - Explore apologies with filtering and search capabilities
 - **Share Apologies** - Direct links to individual apology pages
 - **Bot Protection** - Cloudflare Turnstile integration
-- **Responsive Design** - Modern Neobrutalism UI with dark/light theme support
+- **Responsive Design** - Modern UI with dark/light theme support
 
 ### Admin Features
 - **Dashboard Analytics** - Real-time statistics and charts
@@ -24,7 +24,7 @@ ApologyHub platform built with Next.js 14, Prisma, and shadcn/ui. Users can subm
 - **Framework**: Next.js 14+ (App Router, Server Actions)
 - **Language**: TypeScript
 - **UI Library**: React 18 with shadcn/ui components
-- **Styling**: Tailwind CSS (Neobrutalism theme)
+- **Styling**: Tailwind CSS
 - **Database**: PostgreSQL with Prisma ORM
 - **Authentication**: NextAuth.js v4
 - **Security**: Cloudflare Turnstile, Rate Limiting, IP Management
@@ -48,7 +48,7 @@ Before you begin, ensure you have:
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd im-sorry
+   cd apologyhub
    ```
 
 2. **Install dependencies**
@@ -82,7 +82,7 @@ For detailed setup instructions, see [SETUP.md](./SETUP.md)
 ## Project Structure
 
 ```
-im-sorry/
+apologyhub/
 ├── app/                      # Next.js App Router
 │   ├── (public)/            # Public pages (home, browse, submit, apology)
 │   ├── api/                 # API routes
