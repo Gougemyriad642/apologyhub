@@ -1,6 +1,6 @@
 # Setup Guide - ApologyHub Platform
 
-This guide provides detailed instructions for setting up the I'm Sorry anonymous apology platform on your local machine or server.
+This guide provides detailed instructions for setting up the ApologyHub anonymous apology platform on your local machine or server.
 
 ## Table of Contents
 
@@ -52,7 +52,7 @@ This guide provides detailed instructions for setting up the I'm Sorry anonymous
 git clone <repository-url>
 
 # Navigate to project directory
-cd im-sorry
+cd apologyhub
 ```
 
 ### 2. Install Dependencies
