@@ -1,22 +1,24 @@
 {
   "name": "apology-hub",
   "description": "Anonymous Apology Platform",
-  "version": "1.0.0",
-  "private": true,
+  "version": "1.0.5",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/arsya371/apologyhub.git"
+  },
+  "engines": {
+    "node": ">= 18.x"
   },
   "keywords": [
       "apologyhub",
       "apology"
   ],
-  "author": "Arsya",
-  "license": "ISC",
   "bugs": {
       "url": "https://github.com/arsya371/apologyhub/issues"
   },
   "homepage": "https://github.com/arsya371/apologyhub#readme",
+  "author": "Arsya",
+  "license": "ISC",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
